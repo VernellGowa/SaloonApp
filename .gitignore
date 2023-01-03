@@ -1,0 +1,9 @@
+*.iml
+Saloon/.gradle
+Saloon/local.properties
+Saloon/.idea/workspace.xml
+Saloon/.idea/libraries
+Saloon/.DS_Store
+Saloon/app/build
+Saloon/captures
+Saloon/.externalNativeBuild
